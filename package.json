@@ -1,6 +1,6 @@
 {
   "name": "razorpay-checkout",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Library provided by Razorpay to facilitate checkout of order by clicking a single button.",
   "keywords": [
     "Razorpay",
