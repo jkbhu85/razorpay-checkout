@@ -36,4 +36,4 @@ The original JavaScript demo can be found [here](https://razorpay.com/docs/payme
 
 
 ## Disclaimer
-I am not the original author of this project. The original code which is in the `src/index.js` (original file name `checkout.js`) file is property of Razorpay. A link to original source can be found [here](https://razorpay.com/docs/payment-gateway/web-integration/standard/). Also, I am not associated to Razorpay in any way.
+I am not the original author of this project. The original code which is in the `src/index.js` (original file name `checkout.js`) file is property of Razorpay. [Original source can be found here](https://razorpay.com/docs/payment-gateway/web-integration/standard/). Also, I am not associated to Razorpay in any way.

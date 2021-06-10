@@ -16,7 +16,7 @@ export interface PmtRequest {
 
   amount: number;
 
-  currency: "INR";
+  currency: string;
 
   order_id: string;
 
